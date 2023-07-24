@@ -7,9 +7,9 @@ resources:
 
 variables:
   azureServiceConnection: 'azure-connection'
-  resourceGroup: 'rg-az400-container-NAME'
+  resourceGroup: 'eshopOnWeb'
   location: 'westeurope'
-  subscriptionId: 'YOUR-SUBSCRIPTION-ID'
+  subscriptionId: '2793f13c-0f7f-4f47-9ea8-73801cef0220'
 
 stages:
 - stage: Deploy
